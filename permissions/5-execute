@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod =x /root/holbertonschool-shell/permissions/hello 
+chmod a=x /root/holbertonschool-shell/permissions/hello 
