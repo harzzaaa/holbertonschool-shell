@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 700 /root/holbertonschool-shell/permissions/hello 
+chmod 100 /root/holbertonschool-shell/permissions/hello 
