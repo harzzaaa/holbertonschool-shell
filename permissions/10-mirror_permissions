@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod a=664 hello olleh
+chmod a+664 hello olleh
