@@ -1,2 +1,2 @@
 #!/bin/bash
-export BEST=[School] | grep School
+export BEST=School
